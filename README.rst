@@ -1,3 +1,5 @@
+ C:\Users\Daniel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\twine.exe
+
 .. image:: https://github.com/silentsokolov/django-admin-rangefilter/workflows/build/badge.svg?branch=master
    :target: https://github.com/silentsokolov/django-admin-rangefilter/actions?query=workflow%3Abuild
 
@@ -26,7 +28,7 @@ Use your favorite Python package manager to install the app from PyPI, e.g.
 
 Example:
 
-``pip install django-admin-rangefilter``
+``pip install django-rangefilter``
 
 
 Add ``rangefilter`` to ``INSTALLED_APPS``:

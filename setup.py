@@ -35,11 +35,11 @@ def get_package_data(package):
 
 
 setup(
-    name="django-admin-rangefilter",
+    name="django-rangefilter",
     version=get_version("rangefilter"),
     url="https://github.com/Danycraft98/django-admin-rangefilter",
     license="MIT",
-    description="django-admin-rangefilter app, add the filter by a custom date and numeric range on the admin UI.",
+    description="django-rangefilter app, add the filter by a custom date and numeric range on the admin UI.",
     long_description_content_type="text/x-rst",
     long_description=open(join(dirname(__file__), "README.rst"), encoding="utf-8").read(),
     author="Dmitriy Sokolov",
