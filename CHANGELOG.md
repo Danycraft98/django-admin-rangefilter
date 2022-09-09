@@ -1,7 +1,12 @@
 ## [Unreleased]
 
-## [0.8.9] - 2022-09-01
-### Fix
+## [0.9.1] - 2022-09-09
+### Added
+- Added required CSS file.
+
+
+## [0.9.0] - 2022-09-09
+### Added
 - Added numeric filter.
 
 ## [0.8.8] - 2022-09-01
@@ -171,7 +176,9 @@
 - Add get_timezone
 - Drop support Django < 1.8
 
-[Unreleased]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.8.8...HEAD
+[Unreleased]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.9.1...HEAD
+[0.9.1]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.9.0...v0.9.1
+[0.9.0]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.8.8...v0.9.0
 [0.8.8]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.8.7...v0.8.8
 [0.8.7]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.8.6...v0.8.7
 [0.8.6]: https://github.com/silentsokolov/django-admin-rangefilter/compare/v0.8.5...v0.8.6

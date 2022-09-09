@@ -10,7 +10,7 @@ class NumericFilterModelAdmin(admin.ModelAdmin):
     class Media:
         css = {
             'all': (
-                'js/nouislider.min.css',
+                'css/nouislider.min.css',
                 'css/admin-numeric-filter.css',
             )
         }
