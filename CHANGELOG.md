@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [0.8.9] - 2022-09-01
+### Fix
+- Added numeric filter.
+
 ## [0.8.8] - 2022-09-01
 ### Fix
 - Fix using settings.USE_TZ = False on django4.0+ #85
