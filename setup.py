@@ -37,9 +37,9 @@ def get_package_data(package):
 setup(
     name="django-admin-rangefilter",
     version=get_version("rangefilter"),
-    url="https://github.com/silentsokolov/django-admin-rangefilter",
+    url="https://github.com/Danycraft98/django-admin-rangefilter",
     license="MIT",
-    description="django-admin-rangefilter app, add the filter by a custom date range on the admin UI.",
+    description="django-admin-rangefilter app, add the filter by a custom date and numeric range on the admin UI.",
     long_description_content_type="text/x-rst",
     long_description=open(join(dirname(__file__), "README.rst"), encoding="utf-8").read(),
     author="Dmitriy Sokolov",
@@ -47,7 +47,7 @@ setup(
     packages=get_packages("rangefilter"),
     package_data=get_package_data("rangefilter"),
     include_package_data=True,
-    install_requires=[],
+    install_requires=['django', ],
     python_requires=">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*",
     zip_safe=False,
     platforms="any",
@@ -70,4 +70,5 @@ setup(
         "Programming Language :: Python :: 3.10",
         "Topic :: Utilities",
     ],
+    keywords="django admin date numeric filter"
 )
