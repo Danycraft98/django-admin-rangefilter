@@ -1,5 +1,5 @@
-.. image:: https://github.com/silentsokolov/django-admin-rangefilter/workflows/build/badge.svg?branch=master
-   :target: https://github.com/silentsokolov/django-admin-rangefilter/actions?query=workflow%3Abuild
+.. image:: https://github.com/Danycraft98/django-rangefilter/workflows/build/badge.svg?branch=master
+   :target: https://github.com/Danycraft98/django-rangefilter/actions?query=workflow%3Abuild
 
 .. image:: https://codecov.io/gh/silentsokolov/django-admin-rangefilter/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/silentsokolov/django-admin-rangefilter
@@ -9,7 +9,7 @@ django-admin-rangefilter
 
 A Django app that adds a filter by date range to the admin UI.
 
-.. image:: https://raw.githubusercontent.com/silentsokolov/django-admin-rangefilter/master/docs/images/screenshot.png
+.. image:: https://raw.githubusercontent.com/Danycraft98/django-rangefilter/master/docs/images/screenshot.png
 
 
 Requirements
